@@ -13,10 +13,7 @@ public class DataProvide {
 		return element;
 	}
 	
-//	public static WebElement expectedBox(WebDriver driver) {
-//		element = driver.findElement(By.id("answer"));
-//		return element;
-//	}
+
 	
 	public static WebElement Box(WebDriver driver) {
 		element = driver.findElement(By.id("answer"));
